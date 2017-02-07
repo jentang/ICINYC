@@ -3,21 +3,21 @@
 ## Design firm
 [Mod Lab](https://mod-lab.com/) - Design firm we'd like to work with 
 
-## Platforms/software
+## Platforms/software/apps
+[Countable](https://www.countable.us/) - website and app of bills coming to a vote, includes local section, allows for user vote and commenting, also can contact elected officials through the app.  
+
+[allourideas.org](http://allourideas.org/) - super simple "wiki" survey building and polling platform.  
+
 [VotoMobile](https://www.votomobile.org/) - developed in Ghana and can use voice and SMS (allowing use of local languages), collects and can analyze data. Their API (computer code that sets the architecture of the program) is available so we can adapt it to our needs. I think it’s “open” even, so we can invite coders who are interested (there is a large community of civic coders) in our project to help us write the code for our needs.  
 
 [Tracfm.org](http://tracfm.org/) - developed in Uganda to facilitate both polling, and then discussions on the radio.  
 
-[Govright.org](http://govright.org/)- a platform that Tarik Nesh-Nash is part of launching, a generic platform built by Quanan lab to move towards a more open form of governance where citizens co-author laws.  
-
-[Countable](https://www.countable.us/) website and app of bills coming to a vote, includes local section, allows for user vote and commenting, also can contact elected officials through the app.  
-
-[allourideas.org](http://allourideas.org/) - super simple "wiki" survey building and polling platform.  
+[Govright.org](http://govright.org/) - a platform that Tarik Nesh-Nash is part of launching, a generic platform built by Quanan lab to move towards a more open form of governance where citizens co-author laws.  
 
 ##Allies
-BetaNYC - a group of civic hackers based in NYC. They run...  
+[BetaNYC](https://beta.nyc/) - a group of civic hackers based in NYC. "NYC's civic design, civic technology, and open data community." They run...  
 
-[School of Data](https://schoolofdata.nyc/open-call-for-school-of-data-session-proposals/) now annual conference of Civic Hackers.  
+[School of Data](https://schoolofdata.nyc/open-call-for-school-of-data-session-proposals/) - conference civic tech and open data. It used to be a hackathon to celebrate Open Data Day, but has now morphed to encompass more.  
 
 [Youth Participatory Politics Research Network](http://ypp.dmlcentral.net/) runs [action](http://ypp.dmlcentral.net/action-projects) and [reserach](http://ypp.dmlcentral.net/research-projects) projects. Of _particular interest_ is the [Digital Platforms Project](http://ypp.dmlcentral.net/projects/digital-platforms-project). This is a project of...  
 
@@ -27,9 +27,9 @@ BetaNYC - a group of civic hackers based in NYC. They run...
 
 [ict4dev.ma](http://ict4dev.ma) run by Tarik Nesh-Nash at Mundiapolis University.  
 ###Training in NYC
-GovLab.org out of NYU, less active since 2016
+[GovLab](http://govlab.org) - an academic, training, advocacy organization run out of NYU that has been less active since 2016.
 
-##Cases
+##Cases of ICT4G
 [Participatory Budgeting NYC](http://ideas.pbnyc.org/page/about) using OpenPlans.  
 
 [NYC Parks](http://blog.allourideas.org/post/49023446765/new-york-city-parks) using allourideas.  
