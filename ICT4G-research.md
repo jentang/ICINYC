@@ -36,16 +36,18 @@
 
 [PlaNYC](http://blog.allourideas.org/post/6326304438/making-new-york-greener-and-greater) using allourideas.  
 
-ecocitizenworldmap.org survey and mapping tool built on Ushahidi platform.  
+[EcoCitizen World Map Project](http://ecocitizenworldmap.org/) - survey and mapping tool built on Ushahidi platform.  
+
+###Cases that have gone offline
+Reforme.ma - citizen engagement to constitutional reform in Morroco.    
+Each user could vote on each proposed article. Comments were submitted to national drafting committee. 40% of recommendations adopted into current constitution.  
+Usage reflects engagement of Morrocan diaspora (25% outside of the country). Still very urban, bias with tech. 72% male use.  
 
 Nouasbook.ma tool with the aim of better feedback between politicians and citizens.  
-Platform to ask Questions of their MPs, and vote on citizen Q for MP. MPs then answer citizen questions. 
-24MPs signed up to use it in 4 months. Citizen questions are moderated.  
-Built on VotaInteligente.cl (from Chile)  
+Platform to ask Questions of their MPs, and vote on citizen Q for MP. MPs then answer citizen questions.  
+24MPs signed up to use it in 4 months. Citizen questions are moderated.
 
-Reforms.ma in Morroco, citizen engagement to constitutional changes.  
-Each user votes on each proposed article. Usage reflects engagement of Morrocan diaspora (25% outside of the country). Still very urban, bias with tech. 72% male use. Comments submitted to national drafting committee. 40% of recommendations adopted into current constitution.  
-
+##To be sorted...
 https://democracyspot.net/  
 http://citizen20series.com/  
 https://www.demworks.org/information-and-communication-technology-international-development-ict4d  
