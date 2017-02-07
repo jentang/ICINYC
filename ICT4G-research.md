@@ -23,9 +23,8 @@ GovLab.org out of NYU, less active since 2016
 ##Cases
 [Participatory Budgeting NYC](http://ideas.pbnyc.org/page/about) using OpenPlans
 [NYC Parks](http://blog.allourideas.org/post/49023446765/new-york-city-parks) using allourideas
-PlaNYC using allourideas (http://blog.allourideas.org/post/6326304438/making-new-york-greener-and-greater)
-ecocitizenworldmap.org 
-survey and mapping tool built on Ushahidi platform
+[PlaNYC](http://blog.allourideas.org/post/6326304438/making-new-york-greener-and-greater) using allourideas
+ecocitizenworldmap.org survey and mapping tool built on Ushahidi platform
 Nouasbook.ma tool with the aim of better feedback between politicians and citizens. Platform to ask Questions of their MPs, and vote on citizen Q for MP. MPs then answer citizen questions
 24MPs signed up to use it in 4 months
 Citizen questions are moderated
