@@ -14,18 +14,26 @@
 
 [Govright.org](http://govright.org/) - a platform that Tarik Nesh-Nash is part of launching, a generic platform built by Quanan lab to move towards a more open form of governance where citizens co-author laws.  
 
-##Allies
+##Allies & Resources
+**[Youth Participatory Politics Research Network](http://ypp.dmlcentral.net/)** runs [action](http://ypp.dmlcentral.net/action-projects) and [reserach](http://ypp.dmlcentral.net/research-projects) projects. They also collect some very useful [publications](http://ypp.dmlcentral.net/publications).   
+Of _particular relevance_ to our tech design work right now is the [Digital Platforms Project](http://ypp.dmlcentral.net/projects/digital-platforms-project), a distillation of design principles aimed at platform designers.  
+[The Youth Participatory Politics Survey Project](http://ypp.dmlcentral.net/projects/youth-participatory-politics-survey-project) is a nationally representative survey of how young people 15-25 experience and participate in public life.  
+[The Good Participation Project](http://ypp.dmlcentral.net/projects/good-participation-project) is a study of young people’s civic and political participation in a digital age, and the interplay of conditions that promote "good participation."  
+[The Activists and Participatory Politics project](http://ypp.dmlcentral.net/projects/activists-and-participatory-politics) seeks to provide support and highlight the effective practices of activist groups that promote participatory politics and youth civic and political engagement.  
+[The Media, Activism, and Participatory Politics (MAPP) Project](http://ypp.dmlcentral.net/projects/media-activism-and-participatory-politics) - five case studies of youth-driven communities that scaffolded skills and networks of participatory culture into civic engagement and political participation for social change.  
+The YPPRN is a project of...  
+
+[Digital Media + Learning Research Hub](http://dmlhub.net/) - runs a [blog](http://dmlcentral.net/), and a [conference](http://dmlhub.net/conference/)  
+
 [BetaNYC](https://beta.nyc/) - a group of civic hackers based in NYC. "NYC's civic design, civic technology, and open data community." They run...  
 
-[School of Data](https://schoolofdata.nyc/open-call-for-school-of-data-session-proposals/) - conference civic tech and open data. It used to be a hackathon to celebrate Open Data Day, but has now morphed to encompass more.  
+[School of Data](https://schoolofdata.nyc/open-call-for-school-of-data-session-proposals/) - now an annual civic tech and open data conference for the NYC community. It used to be a hackathon to celebrate Open Data Day, but has now morphed to encompass more.  
 
-[Youth Participatory Politics Research Network](http://ypp.dmlcentral.net/) runs [action](http://ypp.dmlcentral.net/action-projects) and [reserach](http://ypp.dmlcentral.net/research-projects) projects. Of _particular interest_ is the [Digital Platforms Project](http://ypp.dmlcentral.net/projects/digital-platforms-project). This is a project of...  
+[Poplus](http://poplus.org) - a federated tech community of civic coders that helped to build the votaintelligente.cl and nousabook.ma (now offline) tools.  
 
-[Digital Media + Learning Research Hub](http://dmlhub.net/) runs a [blog](http://dmlcentral.net/), and a [conference](http://dmlhub.net/conference/)  
+[CUNY ServiceCorps](http://www1.cuny.edu/sites/servicecorps/community-partners/current/) - CUNY undergrads asigned to work with community organizations including City agencies. We could potentially apply to be a partner organization and have a student work with us.  
 
-[Poplus](http://poplus.org) a federated tech community of civic coders that helped to build the votaintelligente.cl and nousabook.ma tools.  
-
-[ict4dev.ma](http://ict4dev.ma) run by Tarik Nesh-Nash at Mundiapolis University.  
+[ict4dev.ma](http://ict4dev.ma) - focused on development, run by Tarik Nesh-Nash at Mundiapolis University.  
 ###Training in NYC
 [GovLab](http://govlab.org) - an academic, training, advocacy organization run out of NYU that has been less active since 2016.
 
@@ -36,7 +44,7 @@
 
 [PlaNYC](http://blog.allourideas.org/post/6326304438/making-new-york-greener-and-greater) using allourideas.  
 
-[EcoCitizen World Map Project](http://ecocitizenworldmap.org/) - survey and mapping tool built on Ushahidi platform.  
+[EcoCitizen World Map Project](http://ecocitizenworldmap.org/), an example of a survey and mapping tool built on Ushahidi's platform.  
 
 ###Cases that have gone offline
 Reforme.ma - citizen engagement to constitutional reform in Morroco.    
