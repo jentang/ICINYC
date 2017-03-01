@@ -60,5 +60,4 @@ Nouasbook.ma tool with the aim of better feedback between politicians and citize
 Platform to ask Questions of their MPs, and vote on citizen Q for MP. MPs then answer citizen questions.  
 24MPs signed up to use it in 4 months. Citizen questions are moderated.  
 ##Literature
-_I have collected other pieces of literature and we can share them if these of are interest._  
-[When Does ICT-Enabled Citizen Voice Lead to Government Responsiveness?](https://openknowledge.worldbank.org/bitstream/handle/10986/23650/WDR16-BP-When-Does-ICT-Enabled-Citizen-Voice-Peixoto-Fox.pdf) A background paper published by the World Bank for its 2016 World Development Report on Digital Dividends. An abridged version of this paper is also published in the January 2016 issue (Vol. 47, number 1) of the IDS Bulletin. Tiago Peixoto, one of the authors of the report, also runs a [blog](https://democracyspot.net/) on technology and participation.
+_I have collected various pieces of literature in a private [zotero group](https://www.zotero.org/groups/1014911)._  
