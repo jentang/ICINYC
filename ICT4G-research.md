@@ -10,6 +10,8 @@
 
 [DemTech 2.0](https://nditech.org/projects) - a suite of 6 opensource tools for petitions, tracking Candidates' stances on issues, analyzing election data, collecting citizenn complaints, manage community contacts, and organize+visualize+share data. More about NDItech team that developed these tools is below.
 
+[MetroQuest](http://metroquest.com/) - an online tool that offers us and users to do priority ranking, ratings (similar to our likert scales), map annotation, budget allocation (to see how participants would potentially spend a budget), open-ended answers, and straight-up surveys. They also support multiple languages.
+
 [VotoMobile](https://www.votomobile.org/) - developed in Ghana and can use voice and SMS (allowing use of local languages), collects and can analyze data. Their API (computer code that sets the architecture of the program) is available so we can adapt it to our needs. I think it’s “open” even, so we can invite coders who are interested (there is a large community of civic coders) in our project to help us write the code for our needs.  
 
 [Tracfm.org](http://tracfm.org/) - developed in Uganda to facilitate both polling, and then discussions on the radio. Also an SMS based platform. There is a more robust [push for using SMS tech](http://www.ictworks.org/2017/01/09/4-reasons-for-large-scale-sms-text-surveys-in-developing-countries/) in developing countries, but I don't know if we are more interested in a more complex and visual platform as web connectivity may be less of an issue for our population.
