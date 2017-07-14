@@ -19,7 +19,8 @@
 [Govright.org](http://govright.org/) - a platform that Tarik Nesh-Nash is part of launching, a generic platform built by Quanan lab to move towards a more open form of governance where citizens co-author laws.  
 
 [Urban Metabolism Information System (UMIS) and Participtory Urban Metabolism Information System (PUMIS)](http://ecocitizenworldmap.org/understanding-your-city-by-understanding-its-flow-towards-participatory-urban-metabolism-information-systems/) is a way to measure, analyze, and visualize data flows that can also be mapped via GIS. UMIS and PUMIS has been used to measure and visualize water use, but this system _can_ be used to collect and visualize all kinds of data. Something to keep in mind.  
-##Allies & Resources
+
+## Allies & Resources  
 **[Youth Participatory Politics Research Network](http://ypp.dmlcentral.net/)** runs [action](http://ypp.dmlcentral.net/action-projects) and [reserach](http://ypp.dmlcentral.net/research-projects) projects. They also collect some very useful [publications](http://ypp.dmlcentral.net/publications).   
 Of _particular relevance_ to our tech design work right now is the [Digital Platforms Project](http://ypp.dmlcentral.net/projects/digital-platforms-project), a distillation of design principles aimed at platform designers.  
 [The Youth Participatory Politics Survey Project](http://ypp.dmlcentral.net/projects/youth-participatory-politics-survey-project) is a nationally representative survey of how young people 15-25 experience and participate in public life.  
