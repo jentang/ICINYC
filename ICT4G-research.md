@@ -44,7 +44,7 @@ The YPPRN is a project of...
 [GovLab](http://govlab.org) - an academic, training, advocacy organization run out of NYU that has been less active since 2016.  
 
 [ict4dev.ma](http://ict4dev.ma) - focused on development, run by Tarik Nesh-Nash at Mundiapolis University.  
-##Cases of ICT4G
+## Cases of ICT4G
 [Participatory Budgeting NYC](http://ideas.pbnyc.org/page/about) using OpenPlans.  
 
 [NYC Parks](http://blog.allourideas.org/post/49023446765/new-york-city-parks) using allourideas.  
@@ -52,7 +52,7 @@ The YPPRN is a project of...
 [PlaNYC](http://blog.allourideas.org/post/6326304438/making-new-york-greener-and-greater) using allourideas.  
 
 [EcoCitizen World Map Project](http://ecocitizenworldmap.org/), an example of a survey and mapping tool built on Ushahidi's platform.  
-###Cases that have gone offline
+### Cases that have gone offline
 Reforme.ma - citizen engagement to constitutional reform in Morroco.    
 Each user could vote on each proposed article. Comments were submitted to national drafting committee. 40% of recommendations adopted into current constitution.  
 Usage reflects engagement of Morrocan diaspora (25% outside of the country). Still very urban, bias with tech. 72% male use.  
@@ -60,5 +60,5 @@ Usage reflects engagement of Morrocan diaspora (25% outside of the country). Sti
 Nouasbook.ma tool with the aim of better feedback between politicians and citizens.  
 Platform to ask Questions of their MPs, and vote on citizen Q for MP. MPs then answer citizen questions.  
 24MPs signed up to use it in 4 months. Citizen questions are moderated.  
-##Literature
+## Literature
 _I have collected various pieces of literature in a private [zotero group](https://www.zotero.org/groups/1014911)._  
