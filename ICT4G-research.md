@@ -20,12 +20,19 @@
 
 [Urban Metabolism Information System (UMIS) and Participtory Urban Metabolism Information System (PUMIS)](http://ecocitizenworldmap.org/understanding-your-city-by-understanding-its-flow-towards-participatory-urban-metabolism-information-systems/) is a way to measure, analyze, and visualize data flows that can also be mapped via GIS. UMIS and PUMIS has been used to measure and visualize water use, but this system _can_ be used to collect and visualize all kinds of data. Something to keep in mind.  
 
+[Poll Everywhere](https://www.polleverywhere.com/) is a general polling platform with both web and app platforms, but it is one of the most popular and rhobust with features such as allowing many different types of questions, and presentation functions for free.
+
 ## Allies & Resources  
 **[Youth Participatory Politics Research Network](http://ypp.dmlcentral.net/)** runs [action](http://ypp.dmlcentral.net/action-projects) and [reserach](http://ypp.dmlcentral.net/research-projects) projects. They also collect some very useful [publications](http://ypp.dmlcentral.net/publications).   
+
 Of _particular relevance_ to our tech design work right now is the [Digital Platforms Project](http://ypp.dmlcentral.net/projects/digital-platforms-project), a distillation of design principles aimed at platform designers.  
+
 [The Youth Participatory Politics Survey Project](http://ypp.dmlcentral.net/projects/youth-participatory-politics-survey-project) is a nationally representative survey of how young people 15-25 experience and participate in public life.  
+
 [The Good Participation Project](http://ypp.dmlcentral.net/projects/good-participation-project) is a study of young people’s civic and political participation in a digital age, and the interplay of conditions that promote "good participation."  
+
 [The Activists and Participatory Politics project](http://ypp.dmlcentral.net/projects/activists-and-participatory-politics) seeks to provide support and highlight the effective practices of activist groups that promote participatory politics and youth civic and political engagement.  
+
 [The Media, Activism, and Participatory Politics (MAPP) Project](http://ypp.dmlcentral.net/projects/media-activism-and-participatory-politics) - five case studies of youth-driven communities that scaffolded skills and networks of participatory culture into civic engagement and political participation for social change.  
 The YPPRN is a project of...  
 
@@ -44,6 +51,7 @@ The YPPRN is a project of...
 [GovLab](http://govlab.org) - an academic, training, advocacy organization run out of NYU that has been less active since 2016.  
 
 [ict4dev.ma](http://ict4dev.ma) - focused on development, run by Tarik Nesh-Nash at Mundiapolis University.  
+
 ## Cases of ICT4G
 [Participatory Budgeting NYC](http://ideas.pbnyc.org/page/about) using OpenPlans.  
 
@@ -52,6 +60,7 @@ The YPPRN is a project of...
 [PlaNYC](http://blog.allourideas.org/post/6326304438/making-new-york-greener-and-greater) using allourideas.  
 
 [EcoCitizen World Map Project](http://ecocitizenworldmap.org/), an example of a survey and mapping tool built on Ushahidi's platform.  
+
 ### Cases that have gone offline
 Reforme.ma - citizen engagement to constitutional reform in Morroco.    
 Each user could vote on each proposed article. Comments were submitted to national drafting committee. 40% of recommendations adopted into current constitution.  
@@ -60,5 +69,6 @@ Usage reflects engagement of Morrocan diaspora (25% outside of the country). Sti
 Nouasbook.ma tool with the aim of better feedback between politicians and citizens.  
 Platform to ask Questions of their MPs, and vote on citizen Q for MP. MPs then answer citizen questions.  
 24MPs signed up to use it in 4 months. Citizen questions are moderated.  
+
 ## Literature
 _I have collected various pieces of literature in a private [zotero group](https://www.zotero.org/groups/1014911)._  
